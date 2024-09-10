@@ -1,0 +1,1 @@
+php artisan config:publish (untuk mempublish file config mana yang ingin di publish)
